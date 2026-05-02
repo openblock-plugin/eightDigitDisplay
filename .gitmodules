@@ -1,0 +1,3 @@
+[submodule "libraries/DigitLedDisplay"]
+	path = libraries/DigitLedDisplay
+	url = https://github.com/ozhantr/DigitLedDisplay.git
