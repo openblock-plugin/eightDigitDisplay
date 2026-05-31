@@ -1,8 +1,7 @@
 /* eslint-disable func-style */
 /* eslint-disable max-len */
 /* eslint-disable require-jsdoc */
-export default () => {
-    return `
+export default () => `
 <category name="%{BKY_EIGHTDIGITDISPLAY_CATEGORY}" id="EIGHTDIGITDISPLAY_CATEGORY" colour="#A0522D" secondaryColour="#8B4513">
     <block type="eightDigitDisplay_init" id="eightDigitDisplay_init">
         <field name="DIN">2</field>
@@ -31,4 +30,3 @@ export default () => {
         </value>
     </block>
 </category>`;
-};
